@@ -5,14 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdakibhasan" alt="mdakibhasan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://akibhasan.tiiny.site](https://akibhasan.tiiny.site)
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **akibhasanomi@gmail.com**
+
+- 📄 Know about my experiences [https://akibhasan.tiiny.site](https://akibhasan.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md. akib hasan omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. akib hasan omi" height="30" width="40" /></a>
 <a href="https://fb.com/akib hasan omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akib hasan omi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/akib hasan omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akib hasan omi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nubcoder074" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nubcoder074" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/omi074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="omi074" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akib_omi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akib_omi" height="30" width="40" /></a>
